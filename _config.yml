@@ -9,8 +9,8 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://poong.github.io'
-baseurl:          ''
+url:              'https://poonghyeok.github.io/'
+baseurl:          'posts'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
