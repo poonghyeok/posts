@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Githublog
+longtitle:        Githublog
+author:           poonghyeok
+email:            vpd3302@naver.com
 description: >
   Build Jekyll site with the GitBook style.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://poong.github.io'
+baseurl:          ''
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
